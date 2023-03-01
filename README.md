@@ -1,4 +1,4 @@
-![guide](https://socialify.git.ci/pylonmodules/guide/image?description=1&descriptionEditable=A%20module%20for%20reviving%20your%20dead%20chats&font=Raleway&forks=1&issues=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126590123%3Fs%3D200%26v%3D4&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+![guide](https://socialify.git.ci/pylonmodules/guide/image?description=1&descriptionEditable=A%20guide%20on%20how%20to%20use%20Pylon%20Modules&font=Raleway&forks=1&issues=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126590123%3Fs%3D200%26v%3D4&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
 Welcome to the Pylon Modules guide! This guide will show you how to install our various modules, along with how to configure them to your liking.
 
