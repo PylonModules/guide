@@ -25,6 +25,8 @@ const global = {
   embedcolor: 0x3963e2,
 };
 export { global };
+
+// Module configuration
 ```
 
 This is the initial global configuration, the config that some modules will use. You can fill it in now if you want to.
