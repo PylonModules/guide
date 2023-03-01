@@ -5,4 +5,6 @@ Welcome to the Pylon Modules guide! This guide will show you how to install our 
 ## Initial installation
 > A shortend version of this is in each module repository.
 
-In your chosen module's repository, copy the contents 
+In your chosen module's repository, copy the contents of the `module.ts` file into a new file called `modules/<repo name>.ts`.
+
+Append 
