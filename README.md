@@ -5,7 +5,9 @@ Welcome to the Pylon Modules guide! This guide will show you how to install our 
 All our modules are stored in seperate repositories, you can find links to them below.
 
 ## All modules
-> * [Autorole](https://github.com/pylonmodules/autorole)
+* [Autorole](https://github.com/pylonmodules/autorole)
+* [Chat revive](https://github.com/pylonmodules/chstrevive)
+* [Auto-publisher](https://github.com/pylonmodules/autopublisher)
 
 ## Initial installation
 All modules are stored in their own files in the `modules` folder.
