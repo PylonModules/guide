@@ -2,7 +2,7 @@
 
 Welcome to the Pylon Modules guide! This guide will show you how to install our various modules, along with how to configure them to your liking.
 
-All our modules are stored in seperate repositories, and in the `modules` folder in this repository.
+All our modules are stored in seperate repositories, you can find links to them below.
 
 ## All modules
 > * [Autorole](https://github.com/pylonmodules/autorole)
