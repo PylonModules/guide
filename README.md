@@ -6,7 +6,7 @@ All our modules are stored in seperate repositories, you can find links to them 
 
 ## All modules
 * [Autorole](https://github.com/pylonmodules/autorole)
-* [Chat revive](https://github.com/pylonmodules/chstrevive)
+* [Chat revive](https://github.com/pylonmodules/chatrevive)
 * [Auto-publisher](https://github.com/pylonmodules/autopublisher)
 
 ## Initial installation
